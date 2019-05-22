@@ -1,6 +1,5 @@
 # Unreal-Engine-4-Shaders-and-Effects-Cookbook
 Unreal Engine 4 Shaders and Effects Cookbook, published by Packt
-# Book Name
 
 <a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
 

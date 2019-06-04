@@ -24,16 +24,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789
 alt="https://www.packtpub.com/" border="5" /></a>
 
 
-## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
-
-The code will look like the following:
-```
-adoptedCallback() {
-  console.log('I am adopted');
-}
-```
-
 **Following is what you need for this book:**
 This book is for developers who want to create their first Shaders in Unreal Engine 4 or wish to take their game to a whole new level by adding professional post-processing effects. A solid understanding of Unreal is required to get the most from this book.	
 
@@ -49,28 +39,23 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789538540_ColorImages.pdf).
 
-## Code in Action
-
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
 
 ### Related products <Other books you may enjoy>
 * Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
 * Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
+## Get to Know the Authors
+**Brais Brenlla Ramos**
+is a passionate Architect, 3D artist, Unreal Engine 4 developer and first-time author based between A Coruña and his place of work in London, UK. His passion for all things 3D-related dates back to when he was playing games as a child, experiences that fuelled his later studies in architecture and computer animation. His entrance into the professional 3D world happened at the same time as his studies were finishing, with initial projects undertaken in the field of architectural visualization for different studios. Since then, he's worked on many different 3D modeling and app development projects, first as a team member, and later as the Unreal Engine 4 lead developer at a company called AccuCities, based in London.
 
-**Author Name**
-Bio
+**John P. Doran**
+ is a passionate and seasoned technical game designer, software engineer, and author based in Peoria, Illinois. For over a decade, John has gained extensive hands-on expertise in game development, working in a variety of roles, ranging from game designer to lead UI programmer. Additionally, John has worked in game development education teaching in Singapore, South Korea, and the United States. To date, he has authored over 10 books pertaining to game development. John is currently an instructor in residence at Bradley University. Prior to his present ventures, he was an award-winning videographer.
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Unity Game Development Blueprints](https://www.packtpub.com/game-development/unity-game-development-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781783553655)
+* [Unreal Engine 4.x Scripting with C++ Cookbook - Second Edition](https://www.packtpub.com/game-development/unreal-engine-4x-scripting-c-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789809503)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.

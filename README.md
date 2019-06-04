@@ -5,7 +5,7 @@ Unreal Engine 4 Shaders and Effects Cookbook, published by Packt
 
 This is the code repository for [Unreal Engine 4 Shaders and Effects Cookbook](https://www.packtpub.com/game-development/unreal-engine-4-shaders-and-effects-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789538540), published by Packt.
 
-**Over 70 recipes for mastering post-processing effects and advanced shading techniques	**
+**Over 70 recipes for mastering post-processing effects and advanced shading techniques**
 
 ## What is this book about?
 Unreal Engine 4 is a powerful game engine, one which has seen a recent boost in widespread adoption thanks to its ease of use and the powerful rendering pipeline that it packs. Seeing as how it's relatively easy to create stunning presentations and visuals, Unreal has quickly become a strong contender in industries where this kind of software had been previously denied entry.

@@ -41,9 +41,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Hands-On Artificial Intelligence with Unreal Engine [[Packt]](Hands-On%20Artificial%20Intelligence%20with%20Unreal%20Engine?utm_source=github&utm_medium=repository&utm_campaign=9781788835657) [[Amazon]](https://www.amazon.com/dp/1788835654)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Unreal Engine 4 Virtual Reality Projects [[Packt]](https://www.packtpub.com/game-development/unreal-engine-4-virtual-reality-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789132878) [[Amazon]](https://www.amazon.com/dp/1789132878 )
 
 ## Get to Know the Authors
 **Brais Brenlla Ramos**

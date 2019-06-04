@@ -58,4 +58,4 @@ is a passionate Architect, 3D artist, Unreal Engine 4 developer and first-time a
 * [Unreal Engine 4.x Scripting with C++ Cookbook - Second Edition](https://www.packtpub.com/game-development/unreal-engine-4x-scripting-c-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789809503)
 
 ### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions..
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.

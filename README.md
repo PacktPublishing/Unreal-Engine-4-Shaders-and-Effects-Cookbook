@@ -1,23 +1,24 @@
 # Unreal-Engine-4-Shaders-and-Effects-Cookbook
 Unreal Engine 4 Shaders and Effects Cookbook, published by Packt
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/game-development/unreal-engine-4-shaders-and-effects-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789538540"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11843.png" alt="Unreal Engine 4 Shaders and Effects Cookbook" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Unreal Engine 4 Shaders and Effects Cookbook](https://www.packtpub.com/game-development/unreal-engine-4-shaders-and-effects-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789538540), published by Packt.
 
-**Subtitle from EPIC**
+**Over 70 recipes for mastering post-processing effects and advanced shading techniques	**
 
 ## What is this book about?
-First Paragraph from the Long Description
+Unreal Engine 4 is a powerful game engine, one which has seen a recent boost in widespread adoption thanks to its ease of use and the powerful rendering pipeline that it packs. Seeing as how it's relatively easy to create stunning presentations and visuals, Unreal has quickly become a strong contender in industries where this kind of software had been previously denied entry.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+This book covers the following exciting features:
+* Master Unreal Engine's rendering pipeline for developing real-time graphics
+* Use physically based rendering (PBR) for building materials and lighting solutions
+* Build optimized materials for games targeting multiple platforms
+* Understand Unreal Engine's node and functions for creating desirable effects
+* Design and build production-ready shaders
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
+
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789538548) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -28,39 +29,25 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
+adoptedCallback() {
+  console.log('I am adopted');
 }
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+This book is for developers who want to create their first Shaders in Unreal Engine 4 or wish to take their game to a whole new level by adding professional post-processing effects. A solid understanding of Unreal is required to get the most from this book.	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-09).
 
 ### Software and Hardware List
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 1-9      | Unreal Engine 4                     | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789538540_ColorImages.pdf).
 
 ## Code in Action
 
